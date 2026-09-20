@@ -1,0 +1,6 @@
+{
+  "name": "DataCash PK",
+  "description": "Pakistan-focused mobile data rewards prototype with mock bandwidth selling engine, daily limits, wallet, withdrawal system, referrals, and clean architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
